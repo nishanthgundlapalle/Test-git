@@ -1,8 +1,6 @@
 
 sample app js file
-
 change made in app.js
+remote merge conflict
 
-small change  made
 
-merge conflict occurred
